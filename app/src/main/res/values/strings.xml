@@ -1,13 +1,14 @@
 <resources>
     <string name="app_name">Absensiku</string>
     <string name="image">image</string>
-    <string name="nama">/nama</string>
-    <string name="ruth_fiona">/ruth_fiona</string>
-    <string name="_08975244323">_08975244323</string>
-    <string name="_08975244323">_08975244323</string>
     <string name="button_1">button_1</string>
     <string name="button_2">button_2</string>
     <string name="no_hp">no_hp</string>
     <string name="_08975244323">_08975244323</string>
     <string name="Absensiku">Absensiku</string>
+    <string name="home">home</string>
+    <string name="my_profil">my_profil</string>
+    <string name="nama">nama</string>
+    <string name="Ruth_Fiona">Ruth_Fiona</string>
+    <string name="no_hp">no_hp</string>
 </resources>
